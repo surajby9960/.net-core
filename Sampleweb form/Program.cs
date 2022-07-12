@@ -16,7 +16,7 @@ namespace Sampleweb_form
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form3());
+            Application.Run(new Form5());
         }
     }
 }
